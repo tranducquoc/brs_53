@@ -15,4 +15,5 @@ class FollowingController < ApplicationController
     flash[:warning] = t "app.controllers.not_found_user"
     redirect_to root_path
   end
+bbb
 end
