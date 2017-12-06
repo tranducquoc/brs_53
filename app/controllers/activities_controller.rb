@@ -5,3 +5,6 @@ class ActivitiesController < ApplicationController
       per_page: Settings.per_page
   end
 end
+bsddvbsdhjb
+fjsbdfkjsbbjk
+
